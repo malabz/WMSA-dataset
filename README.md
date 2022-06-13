@@ -32,10 +32,11 @@ unzip Complete156.zip
 
 ## Benchmark from www.drive5.com/bench
 
-<a href="http://www.drive5.com/bench/bench.tar.gz" download="bench.tar.gz">bench.tar.gz</a> is a collection of protein sequence alignment benchmarks including BALIBASE v3, PREFAB v4, OXBENCH, and SABRE. These have been converted to a standard FASTA format that is convenient for further analysis.
+`<a href="http://www.drive5.com/bench/bench.tar.gz" download="bench.tar.gz">`bench.tar.gz`</a>` is a collection of protein sequence alignment benchmarks including BALIBASE v3, PREFAB v4, OXBENCH, and SABRE. These have been converted to a standard FASTA format that is convenient for further analysis.
 
 ```bash
 # download
 wget http://www.drive5.com/bench/bench.tar.gz
-gzip -d bench.tar.gz
 ```
+
+See `README.md` in `benchmark` folder to get more information.
