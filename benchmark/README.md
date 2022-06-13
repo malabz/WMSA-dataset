@@ -4,7 +4,7 @@ This folder contains `benchmark_result.zip` and some shell scripts `*.sh.`
 
 ## Before test
 
-Before testing the program, please download and extract files from `<a href="http://www.drive5.com/bench/bench.tar.gz" download="bench.tar.gz">`bench.tar.gz `</a>. `
+Before testing the program, please download and extract files from <a href="http://www.drive5.com/bench/bench.tar.gz" download="bench.tar.gz">`bench.tar.gz`</a>.
 
 ```bash
 wget http://www.drive5.com/bench/bench.tar.gz
