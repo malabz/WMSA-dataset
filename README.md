@@ -24,7 +24,7 @@ Files in `SARS-COV-2` folder contains three files: `Complete156` has 156 sequenc
 # downlaod
 git clone https://github.com/malabz/WMSA-dataset.git
 
-cd mt
+cd SARS-COV-2
 
 # decompress Complete156 file for example
 unzip Complete156.zip
