@@ -20,6 +20,8 @@ Respiratory syndrome coronavirus 2 (SARS‑CoV‑2) is an RNA virus, which cause
 
 Files in `SARS-COV-2` folder contains three files: `Complete156` has 156 sequences with the longest length of 29,857 bp and the shortest length of 29,409 bp, which is highly similar to each other (>99%); `Complete24t` has 24,310 sequences with the longest length of 29,919 bp and the shortest length of 29,146, which is highly similar to each other (>99%). `Mix1t` has 1,020 sequences with the longest length of 29,981 bp and the shortest length of 64 bp, which is not highly similar to each other.
 
+(Updated in 2022-08-15) `Complete156_remove_12_22` has 156 sequences, which remove the first 12 sites and last 22 sites by `COVID-Align`.
+
 ```bash
 # downlaod
 git clone https://github.com/malabz/WMSA-dataset.git
